@@ -1,0 +1,259 @@
+
+
+.fullcontainer
+{
+    padding: 20px;
+  
+}
+
+.container
+{
+    float: left;
+background-color: white;
+align-items: center;
+
+margin: 0px;
+width: 50%;
+
+}
+.container1
+{
+    float: right;
+    background-color: white;
+    
+    margin: 0px;
+    width: 50%;
+
+}
+
+.obecity
+{
+    padding-left: 13%;
+   font-weight: 600;
+    font-size: 40px;
+}
+.t1
+{
+    font-style:normal;
+    color:lightblue;
+}
+ 
+.t2
+{
+    
+        font-style:normal;
+        color:orange;
+
+}
+
+.lorem
+{ text-align: center;
+    padding: 10px;
+}
+.cen{
+    padding-left: 30%;
+    text-align: center;
+}
+
+.lorembox1
+{
+    margin-right: 70px;
+    border:1px;
+  
+    background-color: lightblue;
+    width:80%;
+   
+   
+   
+}
+
+.loremtext1
+{ 
+    text-align: center;
+    font-size: 18px;   
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.lorembox
+{
+margin: 10px;
+    border:1px;
+   
+    background-color: lightblue;
+    width:80%;
+}
+
+
+
+.loremtext
+{ 
+    text-align: center;
+    font-size: 18px;   
+}
+.increase
+{
+    font-size: 33px;
+    font-weight: 600;
+    color:#44057e;
+
+}
+.lorem2
+{
+    color: blue;
+    font-size: 20px;
+    position:relative;
+    
+}
+.shift
+{
+    padding-left: 13%;
+}
+.fries1
+{
+    
+    padding: 40px 15px 15px 15px;
+}
+
+.img1
+{
+    height: 100px;
+    width: 80px;
+}
+.nearly
+{
+    padding-left: 90px;
+    padding-top: 10px;
+}
+
+.near1
+{
+    color: blue;
+    font-size: 30px;
+    font-weight: 600;
+}
+.near2
+{
+    color: orange;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.near3
+{
+    color: rgb(8, 149, 196);
+    font-size: 15px;
+    font-weight: 600;
+}
+.ad
+{
+font-size: 35px;
+color: orange;
+font-weight: 600;
+
+}
+
+.ad1
+{
+
+    font-size: 45px;
+    font-weight: 600;
+color: blue;
+}
+
+.men1
+{
+    height: 100px;
+    width: 150p
+
+}
+
+
+.men2
+{
+    height: 100px;
+    width: 150px;
+
+}
+
+
+.men3
+{
+    height: 100px;
+    width: 150px;
+
+}
+.adultsparent
+{
+    padding-left: 140px;
+}
+
+
+.healthy
+{
+    padding-top: 10px;
+    padding-left: 10px;
+font-size: 40px;
+font-weight: 600;
+    color:blue ;
+}
+.breadimg
+{
+height: 100px;
+width: 100px;
+
+}
+.grains
+{
+    color: rgb(36, 170, 214);
+    font-size: 35px;
+    font-weight: 600;
+}
+.g100
+{
+   
+    color: orange;
+    font-size: 60px;
+    font-weight: 600; 
+}
+
+.injection
+{
+    height: 150px;
+    width: 150px;
+        
+}
+.d1{
+
+
+    color: darkblue;
+    font-size: 35px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+.d2
+{
+    color: orange;
+    font-size: 25px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+.d3
+{
+    color: darkblue;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 15px;
+}
+.health
+{
+    padding-top: 20px;
+}
+.line
+{
+    border-left: 3px dashed blue;
+    height: 100%;
+    position:fixed;
+    left: 48%;
+    
+}
